@@ -7,6 +7,7 @@ They include frontmatter containing weighted psuedo-realistic metadata. The post
 
 ## Example Post:
 
+```yml
 ---
 title: "Lente de uterque iamque"
 author.username: "nmacfayden2"
@@ -16,6 +17,7 @@ updated: "2022-01-06 14:00"
 image: "https://picsum.photos/seed/explicabo-voluptas-quam.png/960/640"
 description: "Dicta occaecati distinctio doloribus et omnis dolores molestias consequuntur. Cupiditate voluptas possimus minima non enim sunt doloribus aliquid. Sit voluptatibus tempore sed sit magni."
 ---
+```
 
 ## Non luce solvit
 
