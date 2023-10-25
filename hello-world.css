@@ -1,0 +1,98 @@
+/* Reset some default styles for better consistency */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Define styles for the body of the webpage */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 20px;
+}
+
+/* Style the header */
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Style the navigation menu */
+nav {
+  background-color: #444;
+  text-align: center;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Style the main content area */
+main {
+  background-color: #fff;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Style a section */
+section {
+  margin: 10px;
+}
+
+/* Style a sidebar */
+aside {
+  float: right;
+  width: 30%;
+  background-color: #eee;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* Style a footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Style links in the content area */
+a {
+  color: #0077b6;
+  text-decoration: underline;
+}
+
+/* Define a class for highlighted text */
+.highlight {
+  background-color: yellow;
+}
+
+/* Define an ID for a specific element */
+#special-element {
+  border: 2px solid red;
+  padding: 5px;
+  text-align: center;
+  margin: 10px;
+  background-color: #f9c03f;
+}
+
+/* Add a hover effect for links */
+a:hover {
+  color: #ff6b6b;
+  text-decoration: none;
+}
